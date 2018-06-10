@@ -1,29 +1,28 @@
 {
-  "name": "react-native-draggable-calendar",
+  "name": "react-native-magic-moving",
   "version": "1.0.0",
-  "description": "A calendar component supporting dragging operation.",
+  "description": "A novel transition animation between components",
   "main": "index.js",
   "directories": {
     "example": "examples"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmallStoneSK/react-native-draggable-calendar.git"
+    "url": "git@github.com:SmallStoneSK/react-native-magic-moving.git"
   },
   "keywords": [
     "react-native",
-    "calendar",
-    "drag",
-    "draggable",
-    "draggable-calendar",
-    "react-native-calendar",
-    "react-native-draggable-calendar"
+    "animation",
+    "transition",
+    "magic",
+    "magic-moving",
+    "react-native-magic-moving"
   ],
   "author": "SmallStoneSK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SmallStoneSK/react-native-draggable-calendar/issues"
+    "url": "https://github.com/SmallStoneSK/react-native-magic-moving/issues"
   },
-  "homepage": "https://github.com/SmallStoneSK/react-native-draggable-calendar#readme",
+  "homepage": "https://github.com/SmallStoneSK/react-native-magic-moving#readme",
   "dependencies": {}
 }

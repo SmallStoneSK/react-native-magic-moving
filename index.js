@@ -1,4 +1,4 @@
-import {MagicMoving} from './src/index';
+import {MagicMoving} from './src/MagicMoving';
 export {
   MagicMoving
 };
