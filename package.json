@@ -1,0 +1,29 @@
+{
+  "name": "react-native-draggable-calendar",
+  "version": "1.0.0",
+  "description": "A calendar component supporting dragging operation.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallStoneSK/react-native-draggable-calendar.git"
+  },
+  "keywords": [
+    "react-native",
+    "calendar",
+    "drag",
+    "draggable",
+    "draggable-calendar",
+    "react-native-calendar",
+    "react-native-draggable-calendar"
+  ],
+  "author": "SmallStoneSK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmallStoneSK/react-native-draggable-calendar/issues"
+  },
+  "homepage": "https://github.com/SmallStoneSK/react-native-draggable-calendar#readme",
+  "dependencies": {}
+}
