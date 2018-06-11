@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 
 import {mockedData} from "./MockedData";
-import {MagicMoving} from "../../components/MagicMoving";
+import {MagicMoving} from "react-native-magic-moving";
 
 export class Demo1 extends PureComponent {
 

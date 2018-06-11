@@ -149,7 +149,7 @@ export class MagicMoving extends Component {
         {renderPopupLayerBanner ? renderPopupLayerBanner(this.bannerImageStyle) : (
           <Animated.Image source={item.image} style={this.bannerImageStyle}/>
         )}
-        {renderPopupLayerContent(index)}
+        {renderPopupLayerContent(item, index)}
         {this._renderClose()}
       </ScrollView>
     );
