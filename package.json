@@ -1,6 +1,6 @@
 {
   "name": "react-native-magic-moving",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A novel transition animation between components",
   "main": "index.js",
   "directories": {
